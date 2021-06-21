@@ -1,0 +1,49 @@
+#mapid {
+  height: 600px;
+  width: 80%;
+  margin: 3rem auto;
+}
+
+.leaflet-popup-pane {
+  margin-left: 35px;
+}
+
+.leaflet-popup-content {
+  width: 700px !important;
+  height: 540px !important;
+}
+
+img {
+  width: 250px;
+  float: left;
+  padding-bottom: 20px;
+  padding-left: 35px;
+}
+
+.volcano-info {
+  float: right;
+  padding-right: 150px;
+  list-style: none;
+  margin-top: 24px;
+}
+
+.volcano-info li {
+  color: #45545E;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.volcano-info li span {
+  color: #95A6B1;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.leaflet-popup h1 {
+  width: 100%;
+  font-size: 25pt;
+  text-align: center;
+  margin: 15px;
+}
